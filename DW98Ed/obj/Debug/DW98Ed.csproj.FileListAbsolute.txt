@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\bin\Debug\DW98Ed.exe.config
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\bin\Debug\DW98Ed.exe
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\bin\Debug\DW98Ed.pdb
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.Properties.Resources.resources
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.exe
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.pdb
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.CubePreferences.resources
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.Browser.resources
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.CylinderPreferences.resources
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.info.resources
+C:\Users\User\source\repos\Git\DreamWorld98\DW98\DW98Ed\obj\Debug\DW98Ed.ViewportMain.resources
