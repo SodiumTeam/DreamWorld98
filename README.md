@@ -21,3 +21,5 @@ Finished Tasks:
   3. build and compile
   4. start the project
   ----------------------------
+  
+  Used languages: C++ (with Dx12), C#, C, HLSL
